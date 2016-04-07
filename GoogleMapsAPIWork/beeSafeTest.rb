@@ -2,6 +2,8 @@ require 'open-uri'
 require 'json'
 require 'csv'
 
+#This is a Google Maps API conversion script.
+
 #rawAddress = "1450 Judson Dr."
 
 #Initial Setup
